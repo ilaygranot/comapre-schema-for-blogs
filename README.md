@@ -1,0 +1,1 @@
+# comapre-schema-for-blogs
