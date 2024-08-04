@@ -90,7 +90,7 @@ def show_how_to_use():
     """)
 
 def main():
-    st.title("Blog Post Comparison App")
+    st.title("Post Migration - Schema Comparison App")
 
     # Sidebar menu
     menu_options = ["Compare Blog Posts", "How to Use"]
